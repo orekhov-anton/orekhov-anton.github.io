@@ -10,4 +10,4 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
-Sitemap: https://orekhov-anton.gitlab.io/sitemap.xml
+Sitemap: https://orekhov-anton.github.io/sitemap.xml
