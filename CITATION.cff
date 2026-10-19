@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you reference my work, software, or portfolio, please cite it as below."
+authors:
+  - family-names: "Orekhov"
+    given-names: "Anton"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Anton Orekhov — Engineering Portfolio & Research Works"
+version: 2026.1
+date-released: 2026-10-19
+url: "https://orekhov-anton.gitlab.io/"
